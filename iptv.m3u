@@ -82,7 +82,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="DISCOVERY",Dmax
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?sd=10&rebase=on&mux_audio=true
 #EXTINF:-1 tvg-id="Realtime.it" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Realtime.png" group-title="DISCOVERY",Realtime
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+https://dplus-sport-live.akamai.prod-live.h264.io/primary/2/b0dc727929864bdfbc5eda5c604b0580/hdntl=exp=1688269171~acl=/primary/2/b0dc727929864bdfbc5eda5c604b0580/*~data=hdntl~hmac=551c74793836ca4bbc7f1b7f93f7a82cd38edd83b70d5c19450f52f055457158/index.mpd?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_height:1-1080;video_dynamic_range:sdr&hdnts=exp=1688269171~acl=/primary/2/b0dc727929864bdfbc5eda5c604b0580/index.mpd%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr*~hmac=7f52b742ce7e0dceb12b66ee0fb24401f5efe1083ac92012fcafdd04e1f2e50f
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Giallo.png" group-title="DISCOVERY",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-id="Motortrend.it" tvg-name="Motortrend" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MotorTrend.png" group-title="DISCOVERY",Motor Trend
